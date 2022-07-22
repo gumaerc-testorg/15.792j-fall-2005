@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of guest speakers for the course and
+  an archive of past speakers.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: dd67ca42-7815-0c96-61d3-28ad16a37d6c
 ---

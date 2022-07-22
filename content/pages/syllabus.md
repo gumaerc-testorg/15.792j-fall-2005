@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, agenda, requirements, professional standards, an optional service project,
+  and sample projects.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3adb02cc-923e-c009-3d7e-14bb09cd4eac
 ---

@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides short descriptions of projects that Pro-Seminar
+  students have done in the past that are available through the MIT Public Service
+  Center.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 4e2ae8de-48a2-5d61-08c0-ba566ac063b2
 ---
