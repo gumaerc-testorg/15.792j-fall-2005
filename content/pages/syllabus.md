@@ -62,7 +62,7 @@ Optional Service Project
 *   Group or individual projects
 *   Concept is service
 *   Multiple types of projects are acceptable
-*   [MIT Public Service Center](http://web.mit.edu/mitpsc/) has some ideas
+*   {{% resource_link "84b7d713-33fb-4cae-9c9b-7594bcfbe422" "MIT Public Service Center" %}} has some ideas
 
 Sample Projects
 ---------------
